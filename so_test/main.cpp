@@ -2,8 +2,8 @@
 #include "utils.h"
 
 using namespace std;
+int main_var = 1;
 int main(){
-   cout<<"test"<<endl; 
    int x = 1;
    int y = 2;
    int c = add(x, y);
